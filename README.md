@@ -24,7 +24,7 @@ the environment, aging, infectious diseases, and muscular dystrophy.
 - [Rural Lifestyle Eating and Activity Program](https://projectreporter.nih.gov/project_info_description.cfm?aid=8838238&icde=0)
 - [Non-parametric Bayesian methods for causal inference](https://projectreporter.nih.gov/project_info_description.cfm?aid=8751341&icde=24824471)
 - [Optimizing HIV treatment monitoring under resource constraints](https://projectreporter.nih.gov/project_info_description.cfm?aid=8960923&icde=30973443&ddparam=&ddvalue=&ddsub=&cr=4&csb=default&cs=ASC)
-- [Interdisciplinary Training in Rehabilitation and Neuromuscular Plasticity](https://projectreporter.nih.gov/project_info_description.cfm?aid=9054881&icde=30973461&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC)
+- [Magnetic Resonance Imaging and Biomarkers for muscular dystropy](https://projectreporter.nih.gov/project_info_description.cfm?aid=9134683&icde=31166378&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC)
 
 
 
@@ -44,7 +44,7 @@ the environment, aging, infectious diseases, and muscular dystrophy.
 - Research Associates
   - Omar Chavez
   - Tianjian Zhou
-  - Navin G.
+  - Novin Ghaffari
 
 
 # Papers
