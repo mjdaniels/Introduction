@@ -39,7 +39,7 @@ the environment, aging, infectious diseases, and muscular dystrophy.
  - Xuan Luo <luoxxox@gmail.com>
  - Xiao Wu <xiaowu@ufl.edu>
 - Postdocs
- - Dandan Xu <dxu@cop.ufl.edu>
+ - Dandan Xu <xudandanpuck@gmail.com>
  - Seunghwan Park <kkampsh@gmail.com>
 - Research Associates
   - Omar Chavez
