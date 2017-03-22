@@ -30,17 +30,17 @@ the environment, aging, infectious diseases, and muscular dystrophy.
 
 # People
 - Collaborations
- - Dr. Michael G. Perri
- - Dr. Joseph W. Hogan 
- - Dr. Jason Roy
- - Dr. Krista Vandenborne
-- Phd Students(Prime Advisor)
- - Wei Feng <fengwei@ufl.edu>
- - Xuan Luo <luoxxox@gmail.com>
- - Xiao Wu <xiaowu@ufl.edu>
+  - Dr. Michael G. Perri
+  - Dr. Joseph W. Hogan 
+  - Dr. Jason Roy
+  - Dr. Krista Vandenborne
+  - Phd Students(Prime Advisor)
+  - Wei Feng <fengwei@ufl.edu>
+  - Xuan Luo <luoxxox@gmail.com>
+  - Xiao Wu <xiaowu@ufl.edu>
 - Postdocs
- - Dandan Xu <xudandanpuck@gmail.com>
- - Seunghwan Park <kkampsh@gmail.com>
+  - Dandan Xu <xudandanpuck@gmail.com>
+  - Seunghwan Park <kkampsh@gmail.com>
 - Research Associates
   - Omar Chavez
   - Tianjian Zhou
