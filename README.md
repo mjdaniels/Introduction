@@ -12,11 +12,11 @@ the environment, aging, infectious diseases, and muscular dystrophy.
 
 **Contact:**  I can be contacted [here](https://www.gmail.com)
 
-**My Webpage:** My official website is [here](http://www.sbs.utexas.edu/mjdaniels/index.html)
+**My Webpage:** My official website is [here](http://www.stat.ufl.edu/~daniels)
 
-**My CV:** Find it [here](http://www.stat.ufl.edu/~mdaniels/cv.pdf)
+**My CV:** Find it [here](http://www.stat.ufl.edu/~daniels/cv.pdf)
 
-**Book:** [Missing Data in Longitudinal Studies](http://www.stat.ufl.edu/~mdaniels/book.html): Strategies for Bayesian Modeling and Sensitivity Analysis, By M.J. Daniels and J.W. Hogan. Find it [here](https://www.crcpress.com/Missing-Data-in-Longitudinal-Studies-Strategies-for-Bayesian-Modeling-and/Daniels-Hogan/p/book/9781584886099) and [here](https://www.amazon.com/Missing-Data-Longitudinal-Studies-Sensitivity/dp/1584886099/ref=sr_1_1?ie=UTF8&s=books&qid=1199369004&sr=8-1).
+**Book:** [Missing Data in Longitudinal Studies](http://www.stat.ufl.edu/~daniels/book.html): Strategies for Bayesian Modeling and Sensitivity Analysis, By M.J. Daniels and J.W. Hogan. Find it [here](https://www.crcpress.com/Missing-Data-in-Longitudinal-Studies-Strategies-for-Bayesian-Modeling-and/Daniels-Hogan/p/book/9781584886099) and [here](https://www.amazon.com/Missing-Data-Longitudinal-Studies-Sensitivity/dp/1584886099/ref=sr_1_1?ie=UTF8&s=books&qid=1199369004&sr=8-1).
 
 # Work and Projects
 - [Bayesian methods for missingness and causality in cancer and behavior studies](https://projectreporter.nih.gov/project_info_description.cfm?aid=9041551&icde=30970107&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC)
