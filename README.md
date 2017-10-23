@@ -44,5 +44,10 @@ Bayesian biostatistics, methods for incomplete data (missing data), and causal i
 # Papers
   [Here](https://github.com/mjdaniels/Papers) are some of the papers published through projects.
 
+# Code
+- Gaskins and Daniels (2013): PAC selection and shrinkage priors [Here](https://www.stat.ufl.edu/~daniels/code/PACS_supplement)
+- Daniels, Wang, and Marcus (2013): Congenial Bayesian inference with auxiliary covariates [Here](https://www.stat.ufl.edu/~daniels/code/DWM_code)
+- Daniels, Chatterjee, and Wang (2012): Bayesian model selection for incomplete longitudinal data using the posterior predictive distribution [Here](https://www.stat.ufl.edu/~daniels/code/DCW2012)
+- Daniels, Roy, Kim et al. (2012): Bayesian Inference for the causal effect of mediation. [Here](https://www.stat.ufl.edu/~daniels/code/DRK2012)
 
 
