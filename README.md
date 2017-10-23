@@ -19,7 +19,6 @@ the environment, aging, infectious diseases, and muscular dystrophy.
 **Book:** [Missing Data in Longitudinal Studies](http://www.stat.ufl.edu/~mdaniels/book.html): Strategies for Bayesian Modeling and Sensitivity Analysis, By M.J. Daniels and J.W. Hogan. Find it [here](https://www.crcpress.com/Missing-Data-in-Longitudinal-Studies-Strategies-for-Bayesian-Modeling-and/Daniels-Hogan/p/book/9781584886099) and [here](https://www.amazon.com/Missing-Data-Longitudinal-Studies-Sensitivity/dp/1584886099/ref=sr_1_1?ie=UTF8&s=books&qid=1199369004&sr=8-1).
 
 # Work and Projects
-- [Predoctoral Traning in Biomedical Big Data Science](https://projectreporter.nih.gov/project_info_description.cfm?aid=9116413&icde=30969827&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC)
 - [Bayesian methods for missingness and causality in cancer and behavior studies](https://projectreporter.nih.gov/project_info_description.cfm?aid=9041551&icde=30970107&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC)
 - [Rural Lifestyle Eating and Activity Program](https://projectreporter.nih.gov/project_info_description.cfm?aid=8838238&icde=0)
 - [Non-parametric Bayesian methods for causal inference](https://projectreporter.nih.gov/project_info_description.cfm?aid=8751341&icde=24824471)
