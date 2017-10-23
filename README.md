@@ -1,16 +1,8 @@
 # About Me
-Welcome to the introduction page. My main research areas include Research Interests Bayesian methodology,
-Bayesian biostatistics,
-Covariance structures,
-Hierarchical modelling,
-Longitudinal data models,
-Incomplete data models,
-Causal Inference, 
-Spatial models Applications in cancer,
-nutrition, health services,
-the environment, aging, infectious diseases, and muscular dystrophy.
+My main research areas include Bayesian methodology, Bayesian nonparametrics,
+Bayesian biostatistics, methods for incomplete data (missing data), and causal inference.
 
-**Contact:**  I can be contacted [here](https://www.gmail.com)
+
 
 **My Webpage:** My official website is [here](http://www.stat.ufl.edu/~daniels)
 
