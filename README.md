@@ -2,7 +2,8 @@
 My main research areas include Bayesian methodology, Bayesian nonparametrics,
 Bayesian biostatistics, methods for incomplete data (missing data), and causal inference.
 
-
+**Code/packages**
+Code/packages for my research projects can be found here or at the github pages of my co-authors: jasonroy0, the odds (linero), lit777 (chanmin kim)
 
 **My Webpage:** My official website is [here](http://www.stat.ufl.edu/~daniels)
 
